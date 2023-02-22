@@ -1,5 +1,5 @@
 # NTU_Computer-Communication-Networks
-NTU - 電腦通信網路 (110-2)
+NTU - 電腦通信網路 (110-2) 
 
 * Syllabus: 
 https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=921%20U1080&class=&dpt_code=9210&ser_no=26753&semester=110-2&lang=CH
