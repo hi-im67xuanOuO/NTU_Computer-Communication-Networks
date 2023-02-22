@@ -1,4 +1,4 @@
-# NTU_Computer-Communication-Networks_110-2
+# NTU_Computer-Communication-Networks
 NTU - 電腦通信網路 (110-2)
 
 * Syllabus: 
